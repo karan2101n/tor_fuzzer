@@ -1,2 +1,5 @@
 # tor_fuzzer
-fuzzer for tor 
+Use:
+	python3 main.py
+NOTE:
+	specify protocol (http://, https://)
